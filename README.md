@@ -2,6 +2,7 @@
   <head></head>
   <body>
     <h1>stylieminogue</h1>
+    <img width="400px" src="https://github.com/SeatwaveOpenSource/stylieminogue/blob/master/logo.png" />
     <p>These guidelines are currently at their very early stages but should be followed for all new projects and existing projects should be changed where possible.</p>
     <p>If you want to make a change to these guidelines pull request it up!</p>
     <h2>Code Style</h2>
